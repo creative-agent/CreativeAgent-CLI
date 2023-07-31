@@ -22,7 +22,7 @@
 ## Usage
 
 ```
-~$ mycli --help
+~$ CodeBlocks --help
   __  __            ____   _       ___ 
  |  \/  |  _   _   / ___| | |     |_ _|
  | |\/| | | | | | | |     | |      | | 
@@ -66,7 +66,7 @@ PATH="./node_modules/.bin:$PATH"
 ```
 4. Now you are good to go and can use the CLI globally!
 
-Type ```mycli``` or ```mycli --help``` to get started.
+Type ```CodeBlocks-CLI``` or ```CodeBlocks-CLI --help``` to get started.
 
 <br>
 
