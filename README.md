@@ -72,4 +72,4 @@ Type ```CodeBlocks-CLI``` or ```CodeBlocks-CLI --help``` to get started.
 
 ## License
 
-MIT © ***MyCLI***
+MIT © ***CodeBlocks CLI***
