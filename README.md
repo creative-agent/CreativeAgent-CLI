@@ -9,7 +9,7 @@
   <img  src="https://img.shields.io/badge/node-v12.18.2-yellow">
  </p>
  <br>
-<p align="center">Welcome to the CodeBlocks CLI! .</p>
+<p align="center">Welcome to the CodeBlocks CLI! </p>
 <br>
 
 <p align="center">
