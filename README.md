@@ -57,7 +57,6 @@ CodeBlocks plugin install NPM_MODULE
 ```
 ## CodeBlocks info
 ```
-
 USAGE
   $ CodeBlocks info
 
@@ -66,7 +65,6 @@ DESCRIPTION
 ```
 ## CodeBlocks plugin create PLUGIN_NAME
 ```
-
 USAGE
   $ CodeBlocks-CLI plugin create [PLUGIN_NAME] [--type database|api|cloud-storage] [-b]
 
@@ -85,7 +83,6 @@ EXAMPLES
 ```
 ## CodeBlocks plugin delete PLUGIN_NAME
 ```
-
 USAGE
   $ CodeBlocks-CLI plugin delete [PLUGIN_NAME] [-b] [-m]
 
@@ -104,7 +101,6 @@ EXAMPLES
 ```
 ## CodeBlocks plugin install NPM_MODULE
 ```
-
 USAGE
   $ CodeBlocks-CLI plugin install [NPM_MODULE] --plugin <value>
 
