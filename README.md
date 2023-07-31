@@ -123,12 +123,13 @@ EXAMPLES
   $ CodeBlocks-CLI plugin install <npm_module> --plugin <plugin_name>
 ```
 
+```
+Type ```CodeBlocks-CLI``` or ```CodeBlocks-CLI --help``` to get started.
+
+
 (For Developers,
 https://github.com/RushanKhan1/termTranslate/tree/main
 https://dev.to/rushankhan1/build-a-cli-with-node-js-4jbi)
-
-```
-Type ```CodeBlocks-CLI``` or ```CodeBlocks-CLI --help``` to get started.
 
 ## License
 
