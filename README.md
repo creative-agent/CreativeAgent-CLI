@@ -50,15 +50,13 @@ USAGE:
 
 ## Commands
 ```
-## Commands
-
 CodeBlocks info
 CodeBlocks plugin create PLUGIN_NAME
 CodeBlocks plugin delete PLUGIN_NAME
 CodeBlocks plugin install NPM_MODULE
 ```
+## CodeBlocks info
 ```
-CodeBlocks info
 
 USAGE
   $ CodeBlocks info
@@ -66,8 +64,8 @@ USAGE
 DESCRIPTION
   This shows where CodeBlocks is currently being ran at.
 ```
+## CodeBlocks plugin create PLUGIN_NAME
 ```
-CodeBlocks plugin create PLUGIN_NAME
 
 USAGE
   $ CodeBlocks-CLI plugin create [PLUGIN_NAME] [--type database|api|cloud-storage] [-b]
@@ -85,8 +83,8 @@ DESCRIPTION
 EXAMPLES
   $ CodeBlocks-CLI plugin create <name> --type=<database | api | cloud-storage> [--build]
 ```
+## CodeBlocks plugin delete PLUGIN_NAME
 ```
-CodeBlocks plugin delete PLUGIN_NAME
 
 USAGE
   $ CodeBlocks-CLI plugin delete [PLUGIN_NAME] [-b] [-m]
@@ -104,8 +102,8 @@ DESCRIPTION
 EXAMPLES
   $ CodeBlocks-CLI plugin delete <name> [--build]
 ```
+## CodeBlocks plugin install NPM_MODULE
 ```
-CodeBlocks plugin install NPM_MODULE
 
 USAGE
   $ CodeBlocks-CLI plugin install [NPM_MODULE] --plugin <value>
@@ -122,7 +120,7 @@ DESCRIPTION
 EXAMPLES
   $ CodeBlocks-CLI plugin install <npm_module> --plugin <plugin_name>
 ```
-
+## Support
 ```
 Type ```CodeBlocks-CLI``` or ```CodeBlocks-CLI --help``` to get started.
 
